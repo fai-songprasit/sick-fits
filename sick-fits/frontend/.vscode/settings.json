@@ -16,5 +16,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "prettier.disableLanguages": ["javascript", "javascriptreact"]
+  "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove"
 }
