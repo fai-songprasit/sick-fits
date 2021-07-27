@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-export default function IndexPage() {
+export default function OrdersPage() {
   return (
     <div>
-      <p>Index</p>
+      <p>Orders</p>
     </div>
   )
 }
