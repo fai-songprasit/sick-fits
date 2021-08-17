@@ -1,9 +1,10 @@
 import * as React from 'react';
+import Page from '../components/Page';
 
 export default function SellPage() {
   return (
-    <div>
+    <Page>
       <p>Sell</p>
-    </div>
-  )
+    </Page>
+  );
 }

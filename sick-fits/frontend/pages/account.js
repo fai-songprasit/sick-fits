@@ -5,5 +5,5 @@ export default function AccountsPage() {
     <div>
       <p>Accounts</p>
     </div>
-  )
+  );
 }
